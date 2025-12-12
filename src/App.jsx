@@ -82,7 +82,7 @@ function Home() {
         <div className="section-inner">
           <div className="section-video">
             <video
-              src="./src/assets/videoautomocio.mp4"
+              src="./src/assets/videoautomocioo.mp4"
               autoPlay
               muted
               loop
