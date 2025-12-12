@@ -5,7 +5,7 @@ export default function SobreMi() {
 
         {/* FOTO MEVA */}
         <div className="about-photo">
-          <img src="./src/assets/perfil.jpeg" alt="Foto de l’Alex" />
+          <img src="./public/perfil.jpeg" alt="Foto de l’Alex" />
         </div>
 
         {/* TEXT */}

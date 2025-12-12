@@ -13,7 +13,7 @@ function Home() {
         <div className="section-inner">
           <div className="section-video">
             <img
-              src="./src/assets/gritofestival.png"
+              src="./public/gritofestival.png"
               alt="Descripción de la imagen"
               className="video-element"
             />
@@ -44,7 +44,7 @@ function Home() {
         <div className="section-inner">
           <div className="section-video">
             <img
-              src="./src/assets/parataula.png"
+              src="./public/parataula.png"
               alt="Descripción de la imagen"
               className="video-element"
             />
@@ -76,7 +76,7 @@ function Home() {
         <div className="section-inner">
           <div className="section-video">
             <img
-              src="./src/assets/automocio.png"
+              src="./public/automocio.png"
               alt="Descripción de la imagen"
               className="video-element"
             />
@@ -107,7 +107,7 @@ function Home() {
         <div className="section-inner">
           <div className="section-video">
             <img
-              src="./src/assets/repartirb.png"
+              src="./public/repartirb.png"
               alt="Descripción de la imagen"
               className="video-element"
             />
