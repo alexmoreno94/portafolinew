@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="footer-info">
       <p className="footer-name">ALEX MORENO MARTINEZ</p>
       <a href="mailto:oriol@example.com" className="footer-email">
-        hola@alexmoreno.cat
+        alexmoma220501@gmail.com
       </a>
     </div>
 
@@ -26,7 +26,7 @@ export default function Footer() {
 
       {/* Instagram */}
       <a
-        href="https://www.instagram.com/ELTEUUSER"
+        href="https://www.instagram.com/alexxssjk/"
         className="footer-icon"
         target="_blank"
         rel="noreferrer"

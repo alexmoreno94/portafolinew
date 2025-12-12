@@ -18,7 +18,7 @@ export default function Header() {
             SOBRE MI
           </Link>
 
-            <a href="mailto:hola@alexmoreno.cat" className="button-mail">
+            <a href="mailto:alexmoma220501@gmail.com" className="button-mail">
                 CONTACTE
             </a>
           
