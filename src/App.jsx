@@ -12,12 +12,9 @@ function Home() {
       <main className="section-main">
         <div className="section-inner">
           <div className="section-video">
-            <video
-              src="./src/assets/videogrito.mp4"
-              autoPlay
-              muted
-              loop
-              playsInline
+            <img
+              src="./src/assets/gritofestival.png"
+              alt="Descripción de la imagen"
               className="video-element"
             />
           </div>
@@ -46,12 +43,9 @@ function Home() {
       <main className="section-main">
         <div className="section-inner">
           <div className="section-video">
-            <video
-              src="./src/assets/videoparataula.mp4"
-              autoPlay
-              muted
-              loop
-              playsInline
+            <img
+              src="./src/assets/parataula.png"
+              alt="Descripción de la imagen"
               className="video-element"
             />
           </div>
@@ -81,12 +75,9 @@ function Home() {
       <main className="section-main">
         <div className="section-inner">
           <div className="section-video">
-            <video
-              src="./src/assets/videoautomocioo.mp4"
-              autoPlay
-              muted
-              loop
-              playsInline
+            <img
+              src="./src/assets/automocio.png"
+              alt="Descripción de la imagen"
               className="video-element"
             />
           </div>
@@ -115,12 +106,9 @@ function Home() {
       <main className="section-main">
         <div className="section-inner">
           <div className="section-video">
-            <video
-              src="./src/assets/videorepartirb.mp4"
-              autoPlay
-              muted
-              loop
-              playsInline
+            <img
+              src="./src/assets/repartirb.png"
+              alt="Descripción de la imagen"
               className="video-element"
             />
           </div>
